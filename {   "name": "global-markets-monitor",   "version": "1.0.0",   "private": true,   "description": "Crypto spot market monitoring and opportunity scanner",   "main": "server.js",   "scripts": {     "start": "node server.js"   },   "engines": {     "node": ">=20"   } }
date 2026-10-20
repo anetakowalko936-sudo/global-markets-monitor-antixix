@@ -1,0 +1,15 @@
+
+{
+  "name": "global-markets-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Crypto spot market monitoring and opportunity scanner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
